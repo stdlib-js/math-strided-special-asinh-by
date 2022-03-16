@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-strided-special-asinh-by",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Compute the hyperbolic arcsine of each element retrieved from an input strided array via a callback function.",
   "license": "Apache-2.0",
   "author": {
